@@ -12,7 +12,7 @@ Currently available for the following versions<br/>Kini tersedia untuk versi ber
 
        <img alt="cit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
 
-  Bedrock support is coming soon!<br/>Sokongan Edisi Bedrock akan datang!
+  Bedrock support is coming soon! (to R1, for now grab the R0 version)<br/>Sokongan Edisi Bedrock akan datang! (ke R1, untuk sekarang dapatkan pek versi R0)
 
 ## Check out the releases [here](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/releases)!<br/>Lihat semua terbitan [di sini](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/releases)!<br/><br/>Check out the changelog [here](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Changelog)<br/>Lihat log perubahan [di sini](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Changelog)!<br/><br/>Get the custom Palestine, Malaysia and Indonesia [cape](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Custom-Capes!) and [banners+shields](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Custom-Shields!)!<br/>Dapatkan [mantel/jubah](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Custom-Capes!) dan [panji/spanduk & perisai](https://github.com/NuruddinPlays/Solidariti-Palestin-MCRP/wiki/Custom-Shields!) bercorak bendera Palestin, Malaysia dan Indonesia
 
@@ -25,7 +25,7 @@ Currently available for the following versions<br/>Kini tersedia untuk versi ber
 | Logo Design<br />Reka Bentuk Logo | NuruddinPlays |  |
 | Flag Design (Malaysia & Palestine)<br />Reka Bentuk Bendera (Malaysia & Palestin) | KatakGamerz |  |
 | Flag Design (Indonesia) <br />Reka Bentuk Bendera (Indonesia) | NuruddinPlays | Added for R1<br />Ditambah untuk R1 |
-| ZWNJ Fix (Java Only)<br />Pembaikan ZWNJ (Java Sahaja) | EmpAhmadK | from JawiCraft<br />Dari JawiCraft |
+| ZWNJ Fix (Java Only)<br />Pembaikan ZWNJ (Java Sahaja) | EmpAhmadK | from JawiCraft<br />dari JawiCraft |
 | Hamzah Tiga Suku Fix (Java Only)<br />Pembaikan Hamzah Tiga Suku (Java Sahaja) | NuruddinPlays | from JawiCraft<br />dari JawiCraft |
 | Splash Texts<br />Teks Tampilan | NuruddinPlays |  |
 | CIT Stuff<br />Benda-benda CIT | NuruddinPlays | Added for R1<br />Ditambah untuk R1 |
