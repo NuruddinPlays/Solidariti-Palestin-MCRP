@@ -9,7 +9,8 @@
 Currently available for the following versions<br/>Kini tersedia untuk versi berikut
 - Java Edition (for 1.20.x versions; older versions may not fully work)<br/>Edisi Java (untuk versi 1.20.x; versi lama mungkin tidak berfungsi sepenuhnya)
   - Requires "Custom Item Textures"-compatible mods ([Optifine](https://optifine.net/home); <img title="Fabric" src="https://i.imgur.com/DT58KwN.png" width="12">[CIT Resewn](https://modrinth.com/mod/cit-resewn)/<img title="Forge" src="https://imgur.com/kjoamX9.png" width="12">[Forge CIT](https://www.curseforge.com/minecraft/mc-mods/forge-cit) for non-Optifine users)<br/>Memerlukan mod serasi dengan feature "Custom Item Textures" ([Optifine](https://optifine.net/home); <img title="Fabric" src="https://i.imgur.com/DT58KwN.png" width="12">[CIT Resewn](https://modrinth.com/mod/cit-resewn)/<img title="Forge" src="https://imgur.com/kjoamX9.png" width="12">[Forge CIT](https://www.curseforge.com/minecraft/mc-mods/forge-cit) untuk bukan pengguna Optifine)
-     <img alt="cit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
+
+       <img alt="cit" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/requires/cit_vector.svg">
 
   Bedrock support is coming soon!<br/>Sokongan Edisi Bedrock akan datang!
 
