@@ -8,6 +8,11 @@
 
 ---
 
+# Official Full Event Video / Video Penuh Rasmi Acara
+[![SolidaritiPalestinVideoThumbnail](https://github.com/user-attachments/assets/1140b7af-3334-4194-a6b9-ccbf479a362b)](https://www.youtube.com/watch?v=G9K71KQsmYo)
+
+---
+
 # Java Edition
 
 <details>
